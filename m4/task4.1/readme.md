@@ -5,6 +5,7 @@
 Pic.1
 ![Hub2](images/4-1-2.png)
 Pic.2
+
 PC0 - 192.168.0.1
 PC1 - 192.168.0.2
 PC2 - 192.168.0.3
@@ -12,6 +13,7 @@ PC3 - 192.168.0.4
 ### Network with two Hubs ###
 ![Hub3](images/4-1-3.png)
 Pic.3
+
 PC0 - 192.168.0.1
 PC1 - 192.168.0.2
 PC2 - 192.168.0.3
@@ -22,6 +24,7 @@ Server - 192.168.0.5
 ### Network with Switch ###
 ![Switch1](images/4-1-4.png)
 Pic.4
+
 PC0 - 192.168.0.1
 PC1 - 192.168.0.2
 PC2 - 192.168.0.3
@@ -29,6 +32,7 @@ PC3 - 192.168.0.4
 ### Network with two Switches ###
 ![Switch2](images/4-1-5.png)
 Pic.5
+
 PC0 - 192.168.0.1
 PC1 - 192.168.0.2
 PC2 - 192.168.0.3
@@ -40,6 +44,7 @@ PC10 - 192.168.0.8
 ### Network with two Switches and Router ###
 ![Router1](images/4-1-6.png)
 Pic.6
+
 PC0 - 192.168.0.1
 PC1 - 192.168.0.2
 PC2 - 192.168.0.3
