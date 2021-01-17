@@ -5,12 +5,10 @@
 Pic.1  
 
 ![](images/5-1-2.png)  
-Pic.2  
-
-Command passwd change /etc/passwd  and /etc/shadow files.
+Pic.2. Command passwd change /etc/passwd  and /etc/shadow files.  
 
 ![](images/5-1-3.png)  
-Pic.3. Man page  
+Pic.3. Man page.  
 
 ![](images/5-1-4.png)  
 Pic.4. Lock and unlock user.  
