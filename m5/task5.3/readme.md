@@ -94,9 +94,21 @@ Nohup.
 ------
 
 ![](images/5-3-19.png)  
-Pic.18. SSH login from cmd.  
+Pic.19. SSH login from cmd.  
 
+![](images/5-3-20.png)  
+Pic.20. Generate SSH keys.  
 
+![](images/5-3-21.png)  
+Pic.21.  
 
+![](images/5-3-22.png)  
+Pic.22.  
+Connect via SSH key to the Linux VM.  
 
+![](images/5-3-23.png)  
+Pic.23.  
 
+![](images/5-3-24.png)  
+Pic.24.  
+Dumping SSH connection with tcpdump command.  
