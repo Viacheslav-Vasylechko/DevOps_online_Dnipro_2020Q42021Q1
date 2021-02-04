@@ -1,114 +1,39 @@
-# TASK 5.3 #
+# TASK 6.1 #
 
-### TASK 5.3.1 ###
-------
-1. A process in Linux has 5 states: R - running, T - stopped, Z- zoombi, S - sleeping (waiting), D - uninteraptable sleeping (usually waiting I/O).  
+![](images/6-1-2.png)  
+Pic.1. Configure VM2 network interface with netplan.  
 
-2.  
-![](images/5-3-1.png)  
-Pic.1.  
-pstree command.  
-
-![](images/5-3-2.png)  
+![](images/6-1-1.png)  
 Pic.2.  
-pstree command with current process.  
+VM2 network interfaces.  
 
-3. Proc is getting information from kernel about processes.  
+![](images/6-1-4.png)  
+Pic.3. Configure VM1 network interface with netplan.  
 
-4.  
-![](images/5-3-3.png)  
-Pic.3.  
+![](images/6-1-3.png)  
+Pic.4. VM1 network interfaces.  
 
-5.  
-![](images/5-3-4.png)  
-Pic.4.  
-![](images/5-3-5.png)  
-Pic.5.  
+![](images/6-1-5.png)  
+Pic.5. Port forwarding on Virtual Box VM1.  
 
-6.  
-![](images/5-3-6.png)  
-Pic.6.  
-Kernel processes.  
-![](images/5-3-7.png)  
-Pic.7.  
-User processes.  
+![](images/6-1-6.png)  
+Pic.6. Add iptables rules on VM1.  
 
-7.  
-![](images/5-3-8.png)  
-Pic.8.  
-Grep process mc. It has status S+. The process is sleeping and working in foreround  
+![](images/6-1-7.png)  
+Pic.7. Ping 8.8.8.8 and i.ua from VM2.  
 
-8.  
-![](images/5-3-9.png)  
-Pic.9.  
-Processes of specific user.  
+![](images/6-1-8.png)  
+Pic.8. nslookup 8.8.8.8 and epam.com.  
 
-9.  
-The utils top and pstree also can be used to see the processes.  
+![](images/6-1-9.png)  
+Pic.9. Host's network configuration.  
 
-10.  
-The TOP showes PID, user, load CPU and Memmory, processes, nice and uptime of processes.  
+![](images/6-1-10.png)  
+Pic.10. Host's route map.  
 
-11.  
-![](images/5-3-10.png)  
-Pic.10.  
-The processes of my username (vvvasilechko).  
+![](images/6-1-12.png)  
+Pic.11. Trace the route to google.com grom the host.  
 
-12-13.  
-![](images/5-3-11.png)  
-Pic.11.
-Top. Sort by Time of process(Shift+T).  
-![](images/5-3-12.png)  
-Pic.12.
-Top. Sort by usage Memmory by process(Shift+M).  
-![](images/5-3-13.png)  
-Pic.13.
-Top. Multi window(Shift+A). Keys "a" and "w" to switch between windows top.  
+![](images/6-1-11.png)  
+Pic.12. Save configuration iptables to the files.  
 
-14.  
-![](images/5-3-14.png)  
-Pic.14.  
-Set priority by "nice".  
-
-15.  
-![](images/5-3-15.png)  
-Pic.15.  
-Set priority by top. Enter key "r". Enter PID process, than enter new priority.  
-
-16.  
-![](images/5-3-16.png)  
-Pic.16.  
-Kill mc.  
-
-17.  
-![](images/5-3-17.png)  
-Pic.17.  
-Jobs, fg, bg.  
-
-18.  
-![](images/5-3-18.png)  
-Pic.18.  
-Nohup.  
-
-### TASK 5.3.2 ###
-------
-
-![](images/5-3-19.png)  
-Pic.19. SSH login from cmd.  
-
-![](images/5-3-20.png)  
-Pic.20. Generate SSH keys.  
-
-![](images/5-3-21.png)  
-Pic.21.  
-
-![](images/5-3-22.png)  
-Pic.22.  
-Connect via SSH key to the Linux VM.  
-
-![](images/5-3-23.png)  
-Pic.23.  
-
-![](images/5-3-24.png)  
-Pic.24.  
-Dumping SSH connection with tcpdump command.  
