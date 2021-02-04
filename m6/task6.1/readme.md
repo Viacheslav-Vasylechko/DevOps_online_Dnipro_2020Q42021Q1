@@ -4,8 +4,7 @@
 Pic.1. Configure VM2 network interface with netplan.  
 
 ![](images/6-1-1.png)  
-Pic.2.  
-VM2 network interfaces.  
+Pic.2. VM2 network interfaces.  
 
 ![](images/6-1-4.png)  
 Pic.3. Configure VM1 network interface with netplan.  
