@@ -1,0 +1,5 @@
+#!/bin/bash
+
+file_out=bots
+grep 'bot' $1 | awk '{print $1, $11}' | sort | uniq -c | sort -gr > $file_out
+
