@@ -1,4 +1,15 @@
-# TASK 6.1 #
+# TASK 7.1 #
+
+### A ###
+
+ScriptA.sh working with:
+- --all parameters;
+- --target parameters;
+- no parameters.
+
+
+
+
 
 ![](images/6-1-2.png)  
 Pic.1. Configure VM2 network interface with netplan.  
