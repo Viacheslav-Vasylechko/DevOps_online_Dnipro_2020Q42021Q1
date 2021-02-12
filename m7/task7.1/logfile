@@ -1,0 +1,44 @@
+2021/02/12 16:45:01 [12316] building file list
+2021/02/12 16:45:01 [12316] 2021/02/12 16:45:01 home/vvvasilechko/DevOps_online_Dnipro_2020Q42021Q1/m7/task7.1/sync_dir/.
+2021/02/12 16:45:01 [12316] 2021/02/12 16:45:01 home/vvvasilechko/DevOps_online_Dnipro_2020Q42021Q1/m7/task7.1/sync_dir/scriptB1.sh
+2021/02/12 16:45:01 [12316] sent 279 bytes  received 43 bytes  total size 352
+2021/02/12 16:46:01 [12341] building file list
+2021/02/12 16:46:01 [12341] sent 118 bytes  received 17 bytes  total size 352
+2021/02/12 16:47:01 [12374] building file list
+2021/02/12 16:47:01 [12374] 2021/02/12 16:47:01 del. scriptB6.sh
+2021/02/12 16:47:01 [12374] 2021/02/12 16:47:01 send home/vvvasilechko/DevOps_online_Dnipro_2020Q42021Q1/m7/task7.1/sync_dir/.
+2021/02/12 16:47:01 [12374] sent 105 bytes  received 35 bytes  total size 111
+2021/02/12 16:48:01 [12386] building file list
+2021/02/12 16:48:01 [12386] 2021/02/12 16:48:01 send home/vvvasilechko/DevOps_online_Dnipro_2020Q42021Q1/m7/task7.1/sync_dir/.
+2021/02/12 16:48:01 [12386] 2021/02/12 16:48:01 send home/vvvasilechko/DevOps_online_Dnipro_2020Q42021Q1/m7/task7.1/sync_dir/scriptB2.sh
+2021/02/12 16:48:01 [12386] sent 273 bytes  received 43 bytes  total size 215
+2021/02/12 16:49:01 [12396] building file list
+2021/02/12 16:49:01 [12396] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:50:01 [12405] building file list
+2021/02/12 16:50:01 [12405] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:51:01 [12413] building file list
+2021/02/12 16:51:01 [12413] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:52:01 [12419] building file list
+2021/02/12 16:52:01 [12419] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:53:01 [12426] building file list
+2021/02/12 16:53:01 [12426] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:54:01 [12444] building file list
+2021/02/12 16:54:01 [12444] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:55:01 [12450] building file list
+2021/02/12 16:55:01 [12450] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:56:01 [12458] building file list
+2021/02/12 16:56:01 [12458] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:57:01 [12465] building file list
+2021/02/12 16:57:01 [12465] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:58:01 [12471] building file list
+2021/02/12 16:58:01 [12471] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 16:59:01 [12477] building file list
+2021/02/12 16:59:01 [12477] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 17:00:01 [12483] building file list
+2021/02/12 17:00:01 [12483] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 17:01:01 [12493] building file list
+2021/02/12 17:01:01 [12493] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 17:02:01 [12503] building file list
+2021/02/12 17:02:01 [12503] sent 119 bytes  received 17 bytes  total size 215
+2021/02/12 17:03:01 [12521] building file list
+2021/02/12 17:03:01 [12521] sent 119 bytes  received 17 bytes  total size 215
