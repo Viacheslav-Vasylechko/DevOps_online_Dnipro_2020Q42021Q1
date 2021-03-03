@@ -27,6 +27,6 @@ Push image to hub.docker.com.
 
 6.  
 ![](images/9-3-6.png)  
-Pic.5.  
+Pic.6.  
 Mycatapp on hub.docker.com.  
 
