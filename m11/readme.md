@@ -19,3 +19,14 @@ Result. HTML page with random cat images.
 ![](images/9-3-4.png)  
 Pic.4.  
 Stop and delete docker image.  
+
+5.  
+![](images/9-3-5.png)  
+Pic.5.  
+Push image to hub.docker.com.  
+
+6.  
+![](images/9-3-6.png)  
+Pic.5.  
+Mycatapp on hub.docker.com.  
+
